@@ -68,5 +68,5 @@ return 0;
 }
 ```
 OUTPUT :
-![[Pasted image 20231211225752.png]]
-![[Pasted image 20231211225806.png]]
+![](images/Pasted%20image%2020231211225752.png)
+![](images/Pasted%20image%2020231211225806.png)
