@@ -122,4 +122,4 @@ return 0;
 }
 ```
 
-![[Pasted image 20231211230912.png]]
+![](images/Pasted%20image%2020231211230912.png)
