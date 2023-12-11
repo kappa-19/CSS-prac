@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "81c062c56173d21e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f878faf691df916e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21f72d7d91a9e66a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "prac 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08037a66f18b5b43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "prac 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a286b22c0b6ba4ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "prac 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "24b467304504409f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "prac 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3d263b954300018",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "prac 6.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d031b15b3357c1ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "prac 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1269c2f4c23778fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2735519f4dfdffe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea57cf1ab0467cd3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aff6fb833e78eea0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d3c85eb91e4340ec",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 293.5
+  },
+  "right": {
+    "id": "5bb1a188602bad29",
+    "type": "split",
+    "children": [
+      {
+        "id": "048fed7dc4609a26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c450fb90fb2c23d1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "prac 6.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6bf8590e03141bf3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "prac 6.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5dbf3ade51caf101",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "745c960a9652fc5c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "prac 6.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c3d263b954300018",
+  "lastOpenFiles": [
+    "New Text Document.txt",
+    "images/Pasted image 20231211231234.png",
+    "prac 5.md",
+    "prac 6.md",
+    "images/Pasted image 20231211231154.png",
+    "prac 4.md",
+    "images/Pasted image 20231211231104.png",
+    "prac 3.md",
+    "prac 2.md",
+    "prac 1.md",
+    "images/Pasted image 20231211230912.png",
+    "images/Pasted image 20231211230848.png",
+    "images/Pasted image 20231211230812.png",
+    "images/Untitled.md",
+    "images/Pasted image 20231211225752.png",
+    "prac 1.pdf",
+    "images/Pasted image 20231211225806.png",
+    "images/Pasted image 20231211230529.png",
+    "images",
+    "prac 1 pdf.md"
+  ]
+}
