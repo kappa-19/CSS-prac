@@ -194,4 +194,4 @@ std::cout << decrypted[i] << " ";
 return 0;
 }
 ```
-![[Pasted image 20231211231104.png]]
+![](images/Pasted%20image%2020231211231104.png)
