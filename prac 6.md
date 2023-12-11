@@ -43,4 +43,4 @@ cout << "x is " << findMinX(num, rem, k);
 return 0;
 }
 ```
-![[Pasted image 20231211231234.png]]
+![](images/Pasted%20image%2020231211231234.png)
