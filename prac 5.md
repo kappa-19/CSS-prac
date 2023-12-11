@@ -39,4 +39,4 @@ cout << "Secret key for the Bob is : " << kb << endl;
 return 0;
 }
 ```
-![[Pasted image 20231211231154.png]]
+![](images/Pasted%20image%2020231211231154.png)
